@@ -1,2 +1,2 @@
 # Credit-Card-Risk
-Credit card risk analysis using RF
+Credit card risk analysis using Random Forest
